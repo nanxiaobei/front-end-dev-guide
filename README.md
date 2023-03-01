@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🦋<br />前端开发行为指导规范</h1>
+<h1>🦋 前端开发行为指导规范</h1>
 
 南小北 ⚡️ [lee.so](https://lee.so/)
 
